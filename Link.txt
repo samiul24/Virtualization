@@ -1,0 +1,7 @@
+https://www.youtube.com/watch?v=6A4VZlyAfe0
+
+OS-level virtualization
+https://en.wikipedia.org/wiki/OS-level_virtualization
+
+what is lxd?
+https://linuxcontainers.org/lxd/introduction/
